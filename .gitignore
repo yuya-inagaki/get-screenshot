@@ -1,0 +1,4 @@
+/output/resize/*
+!/output/resize/.gitkeep
+/output/screenshot/*
+!/output/screenshot/.gitkeep
